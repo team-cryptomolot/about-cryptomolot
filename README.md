@@ -6,7 +6,7 @@ We are validator team consisting of professional blockchain contributors and nod
 
 ## Who are we? 
 - [Vladislav](https://twitter.com/unlimitedmolot) - Founder & CEO
-- [Freesson](https://github.com/Fr33sson) - CTO
+- [Freesson](https://github.com/Fr33sson) - CTO,Devops,Technical writer
 - [MCiB](https://twitter.com/KirillKilin) - Researcher, Analyst
 - [Alexei Soloviev](https://twitter.com/yogasolovey) - Ambassador
 - [Mrmilton](https://twitter.com/miltoneth) - Mod
