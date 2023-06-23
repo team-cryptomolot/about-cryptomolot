@@ -25,6 +25,8 @@ We are validator team consisting of professional blockchain contributors and nod
 
 - [NYM](https://explorer.nymtech.net/network-components/mixnode/981)
 
+- [Forta](https://app.forta.network/profile/0x39DE5332c53b89e011Cd0e565F090991Ed57C638/pools)
+
 ## What testnets are we participating?
 - [Massa](https://massa.net/)
 - [NAMADA](https://namada.net/)
