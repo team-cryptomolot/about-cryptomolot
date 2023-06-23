@@ -31,10 +31,12 @@ We are validator team consisting of professional blockchain contributors and nod
 
 ## What testnets are we participating?
 - [Massa](https://massa.net/)
+- 
 - [NAMADA](https://namada.net/)
 
+- [Subspace](https://subspace.network/)
+
 ## Archive
-- Subspase
 - Ironfish
 - STRATOS
 - KYVE
