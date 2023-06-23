@@ -31,7 +31,7 @@ We are validator team consisting of professional blockchain contributors and nod
 
 ## What testnets are we participating?
 - [Massa](https://massa.net/)
-- 
+ 
 - [NAMADA](https://namada.net/)
 
 - [Subspace](https://telemetry.subspace.network/#list/0x7f489750cfe91e17fc19b42a5acaba41d1975cedd3440075d4a4b4171ad0ac20)
