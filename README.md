@@ -15,9 +15,9 @@ We are validator team consisting of professional blockchain contributors and nod
 
  - [Ambassadors School](https://ambassadors.school/partners_en) - 2000+ active crypto enthusiasts community. The team is 30 contributors DAO that work around WEB3. We are not focused only on ambassador programs, but we love contributing to WEB3 in all ways we can.
 
- - [Cryptomolot telegram community](https://t.me/molotcrypto) - telegram public of our team
+ - [Cryptomolot telegram community](https://t.me/molotcrypto) - telegram public of our team, where we post content about testnets, ambassador programs and other crypto activites for our community.
 
- - [Cryptomolot Discord server](https://discord.gg/UMFvDaAnjY) - where we constantly share our thoughts, opinions and keep in touch with our community.
+ - [Cryptomolot Discord server](https://discord.gg/UMFvDaAnjY) - where we constantly share our thoughts, opinions and keep in touch with our community. We post latest news about crypto and communicate with our community.
  
   
 ## What are we validating now in mainnet?
