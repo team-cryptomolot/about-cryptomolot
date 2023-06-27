@@ -49,8 +49,9 @@ We are validator team consisting of professional blockchain contributors and nod
 - We contribute not just by participating in testnet, but we [promote](https://ambassadors.school/home_en#portfolio) and [engage](https://twitter.com/search?q=%23aptosunites&src=typed_query&f=live)
 - We validate as a service
 - 99.9% uptime
-- Security
-- Experienced team
+- We value security
+- We react instantly
+- We are an experienced team
 
 ## Stay in touch
 - <a href="mailto:unlimitedmolotnorilsk@gmail.com">Write us an e-mail</a>
