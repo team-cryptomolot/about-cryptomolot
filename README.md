@@ -1,6 +1,6 @@
 # Cryptomolot - stake
 
-<a href='https://hostingkartinok.com/show-image.php?id=38d356aa71b7f597f236665306124300' title='разместить изображение'><img src='https://s1.hostingkartinok.com/uploads/thumbs/2023/06/38d356aa71b7f597f236665306124300.png' alt='cryptomolot team.png' /></a>
+<a href='https://hostingkartinok.com/show-image.php?id=4c24c5459f6c1a1c935e0479029c500b' title='хостинг фотографий'><img src='https://s1.hostingkartinok.com/uploads/thumbs/2023/06/4c24c5459f6c1a1c935e0479029c500b.png' alt='cryptomolot team.png' /></a>
 
 We are validator team consisting of professional blockchain contributors and node operators. We came together with one goal: to make blockchains even better, even more stable and reliable. 
 
