@@ -1,4 +1,5 @@
-# Cryptomolot - stake
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cryptomolot+stake+team)](https://git.io/typing-svg)
 
 <a href='https://hostingkartinok.com/show-image.php?id=4c24c5459f6c1a1c935e0479029c500b' title='хостинг фотографий'><img src='https://s1.hostingkartinok.com/uploads/thumbs/2023/06/4c24c5459f6c1a1c935e0479029c500b.png' alt='cryptomolot team.png' /></a>
 
