@@ -11,15 +11,6 @@ We are validator team consisting of professional blockchain contributors and nod
 - [MCiB](https://twitter.com/KirillKilin) - Researcher, Analyst
 - [Alexei Soloviev](https://twitter.com/yogasolovey) - Ambassador
 - [Mrmilton](https://twitter.com/miltoneth) - Mod
-
- ## What do we have?
-
- - [Ambassadors School](https://ambassadors.school/partners_en) - 2000+ active crypto enthusiasts community. The team is 30 contributors DAO that work around WEB3. We are not focused only on ambassador programs, but we love contributing to WEB3 in all ways we can.
-
- - [Cryptomolot telegram community](https://t.me/molotcrypto) - telegram public of our team, where we post content about testnets, ambassador programs and other crypto activites for our community.
-
- - [Cryptomolot Discord server](https://discord.gg/UMFvDaAnjY) - where we constantly share our thoughts, opinions and keep in touch with our community. We post latest news about crypto and communicate with our community.
- 
   
 ## What are we validating now in mainnet?
 - [Aptos](https://explorer.aptoslabs.com/account/0x4ee1f2b7a1069a09b7d9c800928bfe851bc7649a0fb4e0d918554e0d445db4bc?network=mainnet)
@@ -27,7 +18,6 @@ We are validator team consisting of professional blockchain contributors and nod
 - [NYM](https://explorer.nymtech.net/network-components/mixnode/981)
 
 - [Forta](https://app.forta.network/nodePool/531/)
-
 
 ## What testnets are we participating?
 - [Massa](https://massa.net/)
@@ -44,6 +34,14 @@ We are validator team consisting of professional blockchain contributors and nod
 - Omniflix
 - KiChain
 - EVMOS
+
+## What do we have?
+
+ - [Ambassadors School](https://ambassadors.school/partners_en) - 2000+ active crypto enthusiasts community. The team is 30 contributors DAO that work around WEB3. We are not focused only on ambassador programs, but we love contributing to WEB3 in all ways we can.
+
+ - [Cryptomolot telegram community](https://t.me/molotcrypto) - telegram public of our team, where we post content about testnets, ambassador programs and other crypto activites for our community.
+
+ - [Cryptomolot Discord server](https://discord.gg/UMFvDaAnjY) - where we constantly share our thoughts, opinions and keep in touch with our community. We post latest news about crypto and communicate with our community.
 
 ## Why us?
 
