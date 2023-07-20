@@ -68,7 +68,7 @@ We are validator team consisting of professional blockchain contributors and nod
 - We operate in rare locations to ensure maximum decentralization of your protocol
 - We value security
 - We react instantly
-- 
+  
 ## Stay in touch
 - <a href="mailto:unlimitedmolotnorilsk@gmail.com">Write us an e-mail</a>
 - [Book a call with us](https://calendly.com/unlimitedmolot/30min)
