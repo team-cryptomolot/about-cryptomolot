@@ -57,8 +57,6 @@ We are validator team consisting of professional blockchain contributors and nod
 - Meson
 
 ## :classical_building: What do we have?
-
- - Private group of our validator - where we communicate with our delegators and contributors for operational communication, discussions, etc. If you are interested to be added - feel free to [contact us](https://t.me/Tommmymlt).
  
  - [Ambassadors School](https://ambassadors.school/partners_en) - 2000+ active crypto enthusiasts community. The team is 30 contributors DAO that work around WEB3. We are not focused only on ambassador programs, but we love contributing to WEB3 in all ways we can.
 
