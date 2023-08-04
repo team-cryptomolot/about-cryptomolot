@@ -1,4 +1,4 @@
-<a href='https://hostingkartinok.com/show-image.php?id=a55ae0d9b3b1104ba73538f2541411b0' title='image hosting'><img style="width:50%" src='https://s1.hostingkartinok.com/uploads/images/2023/08/a55ae0d9b3b1104ba73538f2541411b0.png' alt='Yes'  /></a>
+<a href='https://hostingkartinok.com/show-image.php?id=a55ae0d9b3b1104ba73538f2541411b0' title='Cryptomolot Stake'><img style="width:50%" src='https://s1.hostingkartinok.com/uploads/images/2023/08/a55ae0d9b3b1104ba73538f2541411b0.png' alt='Yes'  /></a>
 
 We are validator team consisting of professional blockchain contributors and node operators. We came together with one goal: to make blockchains even better, even more stable and reliable. In addition to technical contributing, we see our mission as promoting the projects in which we are involved. That's why we are always part of your ambassador program, bug bounty programs, actively participate in the community both online and offline, and integrate our community into yours. 
 
