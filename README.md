@@ -32,6 +32,7 @@ We are validator team consisting of professional blockchain contributors and nod
 
 - [Subspace](https://telemetry.subspace.network/#list/0x7f489750cfe91e17fc19b42a5acaba41d1975cedd3440075d4a4b4171ad0ac20)
 - [Shardeum](https://explorer-sphinx.shardeum.org/account/35386883181997a7575ee834e9a4ad312b1524e44d6cd97b18060079302e2df4)
+- [Lamina1](https://www.lamina1.com/)
 
 ## :books: Archive
 - Ironfish
