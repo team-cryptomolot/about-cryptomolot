@@ -7,6 +7,7 @@ We are validator team consisting of professional blockchain contributors and nod
 - [Vladislav](https://twitter.com/unlimitedmolot) - Founder & CEO
 - [Freesson](https://github.com/Fr33sson) - CTO, Devops, Technical writer
 - [MCiB](https://twitter.com/KirillKilin) - Researcher, Analyst
+- [Natalie](https://twitter.com/Nato4ka2) - Content Lead
 
 ## :desktop_computer: What are we validating now in mainnet?
 - [Aptos](https://explorer.aptoslabs.com/account/0x4ee1f2b7a1069a09b7d9c800928bfe851bc7649a0fb4e0d918554e0d445db4bc?network=mainnet)
