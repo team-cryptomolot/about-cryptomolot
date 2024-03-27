@@ -91,6 +91,7 @@ Github commits:
 - [Wallet improvement proposal](https://github.com/aptos-labs/petra-wallet/issues/19) for Aptos
 - [UI bug fix issue](https://github.com/aptos-labs/aptos-core/issues/9979) for Aptos
 - [Namada Docs](https://github.com/anoma/namada-docs/commits?author=cryptomolot) for Namada
+- [Artela Docs](https://github.com/artela-network/artela-docs/pull/45) for Artela
 
 Public RPC endpoints:
 
