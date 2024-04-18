@@ -87,6 +87,7 @@ Github commits:
 
 Public RPC endpoints:
 
+- [Public RPC endpoint](https://aptos.rpc.cryptomolot.com/v1) for Aptos
 - [Public RPC endpoint](https://namada-rpc-cryptomolot.info/) for Namada
 
 
