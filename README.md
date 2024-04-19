@@ -119,21 +119,6 @@ Visual:
 - [Aptos Comic Part 3](https://teletype.in/@ambassadors.school/4hWQ7DKYRCX) for Aptos
 - [Aptos Journal](https://twitter.com/KirillSincov/status/1635754348465496067?s=20) for Aptos
   
-
-Blog posts:
-
-- [Medium Blog Posts](https://medium.com/@unlimitedmolotnorilsk) for Aptos, Namada, Artela, Linera, Espresso, Fleek, Nym
-- [Twitter Activity](https://telegra.ph/cryptomolot-twitter-activity-for-Namada-03-27) for Namada
-- [Telegram Post](https://t.me/molotcrypto/289) for Namada
-- [Telegram Post](https://t.me/molotcrypto/261) for Namada
-- [Telegram Post](https://t.me/molotcrypto/158) for Namada
-- [Telegram Post](https://t.me/molotcrypto/301) for Namada
-  
-
-
-
-
-
 ## :city_sunrise: Why us?
 
 - We contribute not just by participating in testnet, but we [promote](https://ambassadors.school/home_en#portfolio) and [engage](https://twitter.com/search?q=%23aptosunites&src=typed_query&f=live), more examples you can check on our [website](https://ambassadors.school/home_en#portfolio)
