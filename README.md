@@ -2,7 +2,7 @@
 
 We are validator team consisting of professional blockchain contributors and node operators. We came together with one goal: to make blockchains even better, even more stable and reliable. In addition to technical contributing, we see our mission as a community support. That's why we are always part of your ambassador program, bug bounty programs, testnets, actively participate in the community both online and offline, and integrate our community into yours. 
 
-Being our delegator is not only fun but also more incentivized! We host quests, sprints, and campaigns for our community to distribute a portion of the commission we earn. Learn more on our [Discord](https://discord.gg/pxX6fXTbEk) and [Galxe](https://galxe.com/kBZDkhZ8FD7AaBqaEX4Uk9).
+**Being our delegator is not only fun but also more incentivized! We host quests, sprints, and campaigns for our community to distribute a portion of the commission we earn. Learn more on our [Discord](https://discord.gg/pxX6fXTbEk) and [Galxe](https://galxe.com/kBZDkhZ8FD7AaBqaEX4Uk9).**
 
 [Check our latest contributions out!](https://github.com/team-cryptomolot/about-cryptomolot?tab=readme-ov-file#mage_man-contributions)
 ㅤ
